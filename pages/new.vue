@@ -6,7 +6,8 @@
         New
       </h1>
       <div class="links">
-
+          <NuxtLink to="/">Home page</NuxtLink>
+          <NuxtLink to="/blog">Blog page</NuxtLink>
       </div>
     </div>
   </div>
